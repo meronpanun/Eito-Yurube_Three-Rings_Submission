@@ -1,0 +1,44 @@
+# 基本C/C++ビルド成果物
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.out
+*.app
+
+# Visual Studio特有
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ビルドディレクトリ
+x64/
+Debug/
+
+# デバッグ・一時ファイル
+*.pdb
+*.ipch
+*.tlog
+*.log
+*.sdf
+*.opensdf
+*.db
+*.tmp
+*.bak
+*.lastbuildstate
+
+# ログファイル
+Log.txt
